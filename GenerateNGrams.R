@@ -1,3 +1,4 @@
+#Source data sets
 blogdata <- readLines("./Coursera-SwiftKey/final/en_US/en_US.blogs.txt",warn = FALSE, skipNul = TRUE)
 newsdata <- readLines("./Coursera-SwiftKey/final/en_US/en_US.news.txt",warn = FALSE, skipNul = TRUE)
 twitdata <- readLines("./Coursera-SwiftKey/final/en_US/en_US.twitter.txt",warn = FALSE, skipNul = TRUE)
