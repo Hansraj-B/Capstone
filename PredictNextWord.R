@@ -1,4 +1,4 @@
-##SOURCE FUNCTION TO PREDICT NEXT WORD
+##SOURCE FUNCTION TO PREDICT NEXT WORD takes inputs from the GenerateNGrams.R
 ##Input: ngrams created by the GenerateNGrams.R source file
 
 ##Load the ngrams stored as RDS to conserve space
