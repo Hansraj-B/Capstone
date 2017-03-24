@@ -1,2 +1,2 @@
 # Capstone
-Text Prediction projct
+Text Prediction project
